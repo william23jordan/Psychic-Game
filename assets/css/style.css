@@ -1,0 +1,14 @@
+
+body {
+    background-color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+#pix {
+    height: 400px;
+    width: 370px;
+}
+
